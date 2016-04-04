@@ -18,7 +18,7 @@ avatar: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xal1/v/t1.0-1/p160x160/
 # Includes an icon in the footer for each username you enter
 footer-links:
  everything: dubcage/dübcagé
-  github: dubcage/dubcage.github.io
+  github: https://github.com/dubcage/dubcage.github.io
  
   rss: # just type anything here for a working RSS icon
   fork: jekyllrb
