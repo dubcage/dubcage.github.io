@@ -9,7 +9,7 @@ name: dübcagé
 description: chill adventures
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xal1/v/t1.0-1/p160x160/12715803_965415633506074_262141153663751252_n.jpg?
+avatar: {{ site.baseurl }}/images/config.png
 
 #
 # Flags below are optional
