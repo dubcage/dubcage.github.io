@@ -17,7 +17,7 @@ avatar: https://avatars0.githubusercontent.com/u/18244671?v=4&s=400
 
 # Includes an icon in the footer for each username you enter
 footer-links:
- github: https://github.com/dubcage/dubcage.github.io
+ github: dubcage/dubcage.github.io
  rss: # just type anything here for a working RSS icon
  fork: jekyllrb
  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
