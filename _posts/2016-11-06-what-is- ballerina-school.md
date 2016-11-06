@@ -1,7 +1,6 @@
 ---
 layout: post
-title:<span style="font-family: 'Lucida Console';">to answer the bewildered question of what is dubcage.com, we must first go back to our first post. Once we have accepted that our senses are being tantrilized, our inner daemons need to have their dance. This is prom night in 1964 baby.</span>
-excerpt_separator: <!--more-->
+title: to answer the bewildered question of what is dubcage.com, we must first go back to our first post. Once we have accepted that our senses are being tantrilized, our inner daemons need to have their dance. This is prom night in 1964 baby.
 ---
 
 ![dubcage-image]({{ site.baseurl }}/images/config.png)
